@@ -1,34 +1,43 @@
 # Hey, I'm Gittam Pal 👋
 
-**Full-Stack Developer** building web apps with **React**, **FastAPI**, and **Docker**.  
-BCA Final Year @ Chitkara University | Based in New Delhi, India
+**Full-Stack Engineer** who builds from UI to deployment.  
+BCA @ Chitkara University | New Delhi, India
 
 ---
 
-### 🔨 What I'm Building
-
-- **[RoomieSync](https://github.com/gittam06/RoomieSync)** — A household management app for roommates to split bills, manage chores, and chat in real-time. Built with React, FastAPI, PostgreSQL, and fully containerized with Docker Compose + CI/CD via GitHub Actions.
-
-- **[Messy-to-Clean ETL](https://github.com/gittam06/messy-to-clean-etl)** — An AI-powered data pipeline that extracts structured data from messy documents (receipts, invoices, PDFs) using OCR + Google Gemini. Full-stack with FastAPI, Streamlit, PostgreSQL, and Docker.
+I don't just write code — I design frontends, architect APIs, set up databases, containerize everything with Docker, and ship it to production with CI/CD. Every project I build goes from idea → code → container → live deployment.
 
 ---
 
-### 🛠️ Tech I Work With
+### What I Work With
 
-**Frontend:** React, Tailwind CSS, Vite  
-**Backend:** Python, FastAPI, Node.js, REST APIs  
-**Databases:** PostgreSQL, MongoDB, SQLite, Firebase  
-**DevOps:** Docker, Docker Compose, GitHub Actions, CI/CD  
-**AI/ML:** Google Gemini API, OCR (Tesseract), Prompt Engineering  
-**Tools:** Git, Postman, VS Code, Linux
+**Frontend** → React, Tailwind CSS, Vite, JavaScript  
+**Backend** → Python, FastAPI, Node.js, REST APIs, JWT Auth  
+**Databases** → PostgreSQL, MongoDB, SQLite, Firebase  
+**DevOps** → Docker, Docker Compose, GitHub Actions, CI/CD Pipelines  
+**AI Integration** → Google Gemini API, OCR (Tesseract), Prompt Engineering  
+**Tools** → Git, GitHub, Postman, VS Code, Linux
 
 ---
 
-### 📫 Let's Connect
+### How I Build
+
+- I think in systems, not just features  
+- If it's not containerized, it's not done  
+- If it's not deployed, it doesn't count  
+- Clean code, proper structure, meaningful commits — always  
+
+---
+
+### What I'm Looking For
+
+Open to **Full-Stack Engineer** and **SDE roles** — internships or full-time.  
+I want to join a team where I can build things that actually ship.
+
+---
+
+### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mr-gittam-pal)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pal.gittam@gmail.com)
-
----
-
-*Currently looking for Full-Stack Developer roles and internships. Open to collaborations on interesting projects.*
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/gittam06)
